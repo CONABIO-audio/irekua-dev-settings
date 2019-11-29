@@ -1,3 +1,3 @@
-# Selia
+# Irekua Development Settings
 
-Web App to access, manage and upload data to Irekua database.
+Django settings files for irekua/selia system development.
